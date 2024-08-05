@@ -1,0 +1,21 @@
+/**
+ * @name Clean Gray
+ * @author Itskayzen_yt
+ * @version 1.1.0
+ * @description A celan, with a transparent background.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+*/
+
+@import url('');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://i.imgur.com/7SbtKvw.png');
+    --home-image: url('https://i.imgur.com/233d55Y.gif');
+    --background-solid: #161921;
+    --background-solid-dark: #585858;
+    --background-solid-darker: #383838;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
