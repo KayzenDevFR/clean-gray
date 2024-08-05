@@ -1,0 +1,9 @@
+{
+    "name": "Clean Gay",
+    "description": "A gray clean theme.",
+    "version": "1.1.0",
+    "author": "Itskayzen_yt",
+    "theme": "theme.clean.gray.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
